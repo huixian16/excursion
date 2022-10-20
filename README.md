@@ -1,4 +1,4 @@
-# Project Excursion
+# Project Excursion :earth_asia:
 
 ## Objective
 To create a landing page to advertise a mobile application called Excursion (https://huixian16.github.io/excursion/) using a design spec (excursion_redline.jpg). This project is solely as a practice for HTML and CSS.
